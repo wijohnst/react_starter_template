@@ -1,8 +1,2 @@
-<h1> wijohnst's React Starter Template 🚀 </h1>
-
-# Boilerplate 
-    - create-react-app
-    - Template: Typescript
-
-# Libraries
-    - styled-components
+<h1>willjohnston.tech</h1>
+<p>Personal developer portfolio for Will Johnston</p>
