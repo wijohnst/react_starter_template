@@ -1,2 +1,8 @@
-# react_starter_template
-Custom Setup of create-react-app 
+<h1> wijohnst's React Starter Template 🚀 </h1>
+
+# Boilerplate 
+    - create-react-app
+    - Template: Typescript
+
+# Libraries
+    - styled-components
